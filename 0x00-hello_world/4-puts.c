@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - Printt a line with puts
- * Return : 0  - when  the 0 is retuned the program is success
+ * main - A program prints a line with puts function
+ * Return: 0 (success when the 0 is returned)
  */
 int main(void)
 {
